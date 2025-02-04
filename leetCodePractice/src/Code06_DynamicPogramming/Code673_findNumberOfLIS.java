@@ -10,7 +10,7 @@ public class Code673_findNumberOfLIS {
         int[] dp = new int[nums.length];
         // dp[i] 是当前的最长子序列的个数
         int[] cut = new int[nums.length];
-
+        // 设备发生变化，请稍后再试
         int max = 0, count = 0;
         for (int i = 0; i < nums.length; i++) {
             dp[i] = 1;
