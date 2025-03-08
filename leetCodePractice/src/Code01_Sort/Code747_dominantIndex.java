@@ -1,4 +1,4 @@
-package code01_Sort;
+package Code01_Sort;
 
 public class Code747_dominantIndex {
     public static int dominantIndex(int[] nums) {

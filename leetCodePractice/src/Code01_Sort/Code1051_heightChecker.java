@@ -1,6 +1,4 @@
-package code01_Sort;
-
-import java.util.Arrays;
+package Code01_Sort;
 
 public class Code1051_heightChecker {
     /*

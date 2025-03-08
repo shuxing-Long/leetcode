@@ -1,4 +1,4 @@
-package code01_Sort;
+package Code01_Sort;
 
 import java.util.HashMap;
 

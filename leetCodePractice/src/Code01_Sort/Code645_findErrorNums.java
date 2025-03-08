@@ -1,8 +1,6 @@
-package code01_Sort;
+package Code01_Sort;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
 
 public class Code645_findErrorNums {
     public static int[] findErrorNums(int[] nums) {

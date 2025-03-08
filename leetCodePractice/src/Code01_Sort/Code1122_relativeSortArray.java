@@ -1,4 +1,4 @@
-package code01_Sort;
+package Code01_Sort;
 
 public class Code1122_relativeSortArray {
     //1122. 数组的相对排序

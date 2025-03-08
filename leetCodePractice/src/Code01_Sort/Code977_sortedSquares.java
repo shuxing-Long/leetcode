@@ -1,4 +1,4 @@
-package code01_Sort;
+package Code01_Sort;
 
 public class Code977_sortedSquares {
     public static int[] sortedSquares(int[] nums) {

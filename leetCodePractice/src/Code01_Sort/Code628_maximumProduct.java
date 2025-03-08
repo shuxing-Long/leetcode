@@ -1,7 +1,4 @@
-package code01_Sort;
-
-import java.sql.Array;
-import java.util.Arrays;
+package Code01_Sort;
 
 public class Code628_maximumProduct {
     public static int maximumProduct(int[] nums) {

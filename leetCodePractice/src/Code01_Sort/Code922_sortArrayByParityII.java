@@ -1,4 +1,4 @@
-package code01_Sort;
+package Code01_Sort;
 
 public class Code922_sortArrayByParityII {
     public static int[] sortArrayByParityII(int[] nums) {

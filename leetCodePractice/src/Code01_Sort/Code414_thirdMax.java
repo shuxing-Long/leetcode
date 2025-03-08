@@ -1,4 +1,4 @@
-package code01_Sort;
+package Code01_Sort;
 
 public class Code414_thirdMax {
     // 查找第三大的数
